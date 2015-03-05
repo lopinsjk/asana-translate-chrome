@@ -276,12 +276,12 @@
         "description": ""
     },
     "UpgradeWorkspace": {
-        "message": "Upgrade Workspace",
+        "message": "Aggiorna Spazio di Lavoro",
         "description": ""
     },
     "ShowRecents": {
         "message": "Mostra recenti...",
-        "description": "Leave the three dots ..."
+        "description": "Lascia i tre puntini di sospensione ..."
     },
     "EditWorkspaceSettings": {
         "message": "Modifica Impostazioni Workspace",
@@ -296,7 +296,7 @@
         "description": ""
     },
     "Followers": {
-        "message": "Followers",
+        "message": "Seguaci",
         "description": ""
     },
     "DeleteTask": {
@@ -329,7 +329,7 @@
     },
     "ACT_AddedTo": {
         "message": "ha aggiunto a",
-        "description": "Someone added the task to..."
+        "description": "Qualcuno ha aggiunto il task a..."
     },
     "OpenDetails": {
         "message": "Apri Dettagli",
